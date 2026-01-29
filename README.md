@@ -33,25 +33,3 @@ python app.py
 Your interface for the chatbot app will probably look like shown below;
 
 ![chatbot application](iris.png)
-
-## Issues
-
-Are you facing any issue while trying to run the code, raise  one and I will be looking forward to fix it as soon as I can.
-
-## Contributions
-
-have something to add that will improve this projects, whether a documentation or codebase just fork it.
-
-## Credits
-
-ALl the credits to [Kalebu](https://github.com/Kalebu/)
-
-### Where to find me ?
-
-- [Personal Blog](https://kalebujordan.dev/)
-- [Telegram](https://t.me/kalebujordan) 
-- [LinkedIn](https://www.linkedin.com/in/kalebu-gwalugano/) 
-- [Twitter](https://twitter.com/j_kalebu) 
-- [Instagram](https://www.instagram.com/kalebu_jordan/) 
-- [Facebook](https://web.facebook.com/kalebu.jordan)
-- isaackeinstein(at)gmail.com
